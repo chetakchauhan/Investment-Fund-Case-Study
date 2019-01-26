@@ -4,7 +4,7 @@
 #                                                                              #
 #                                                                              #
 # Please open this file in RStudio for better code readability                 #
-# Submitted by Rakesh Pattanaik, Raju Kumar, Vikrant Singh and Chetak Chauhan  #
+# Submitted by Chetak Chauhan                                                  #
 ################################################################################
 
 # Setting The Working Directory
